@@ -1,46 +1,34 @@
-# Hi, I'm Yashfa Zahid 👋
+# Yashfa Zahid
 
-CS student from Lahore, Pakistan.  
-I build practical **AI/ML systems** — from classical machine learning and data quality tools to computer vision applications and systems-level projects.
+AI engineer in Lahore. I build applied systems — research agents, retrieval pipelines, realtime voice, and computer-vision tools — and I ship them with an API, an evaluation path, and a UI someone can actually run.
 
-Currently deepening my skills in deep learning and computer vision while shipping real end-to-end projects.
+## Selected work
 
----
+| Project | What it is |
+| --- | --- |
+| [MarketMind](https://github.com/YashfaZahid/Marketmind) | Business-research agent with a hand-built plan, tool loop, evidence typing, quality control, and a human approval gate. |
+| [SupportPearlz](https://github.com/YashfaZahid/SupportPearlz) | Customer-support RAG agent. Hybrid BM25 and vector search, reranking, citations, and an evaluation harness. |
+| [Travel Assistant](https://github.com/YashfaZahid/Travel-Assistant-Voice-Agent) | Interruptible travel voice agent on OpenAI Realtime over WebRTC. |
+| [ProctorEye](https://github.com/YashfaZahid/Online-Exam-WebApp-with-Cheating-Detection) | Online exams with live face presence (MediaPipe), tab-switch detection, and copy-paste logging. |
+| [Dataset Doctor](https://github.com/YashfaZahid/Dataset-Vulnerability-Detection) | Image-dataset auditor. CLIP embeddings, FAISS, perceptual hashes, outliers, and label-neighbor warnings. Flags only. |
+| [ShellSmith](https://github.com/YashfaZahid/ShellSmith) | Natural-language compiler for Windows. Lexer through safety verifier. User text never becomes a shell string. |
 
-### 🔥 Featured Projects
+## Also on this profile
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| **[ShellSmith](https://github.com/YashfaZahid/ShellSmith)** | Natural-language compiler for Windows. Turns English commands into safe, typed, verifiable system operations (lexer → parser → IR → safety verifier → execution). | Python |
-| **[Dataset Doctor](https://github.com/YashfaZahid/Dataset-Vulnerability-Detection)** | Audit large image datasets for quality issues, duplicates, outliers, class imbalance and potential label errors. Streaming analysis with FastAPI backend. | Python, FastAPI, React |
-| **[ProctorEye](https://github.com/YashfaZahid/Online-Exam-WebApp-with-Cheating-Detection)** | Online exam platform with real-time cheating detection using face presence (MediaPipe), tab switching and copy-paste monitoring. | React, Flask, MediaPipe, Supabase |
-| **[Lahore House Price Predictor](https://github.com/YashfaZahid/house-price-prediction-lahore-using-random-forest-regression)** | End-to-end house price prediction using Random Forest on real Lahore real-estate data + Flask web interface. | Python, Scikit-learn, Flask |
+- [ATS](https://github.com/YashfaZahid/ATS-system) — hiring product with Gemini resume analysis and local resume embeddings in pgvector
+- [NexusCV](https://github.com/YashfaZahid/Nexus-CV) — CV and cover-letter studio with deterministic ATS scoring and PDF/DOCX export
+- [MediGuide AI](https://github.com/YashfaZahid/MediGuide-AI) — educational symptom guidance with a hard medical disclaimer
+- [Origin](https://github.com/YashfaZahid/RAG-Chatbot) and [Vesper](https://github.com/YashfaZahid/custom-gpt) — configurable multi-turn chat workspaces
+- [UniHub](https://github.com/YashfaZahid/UniHub) — campus marketplace (React, Flask, Supabase)
+- [Lahore house prices](https://github.com/YashfaZahid/house-price-prediction-lahore-using-random-forest-regression) — Random Forest notebook on local listings
+- [Punjab weather](https://github.com/YashfaZahid/weather-forecast-punjab-using-prophet) — Prophet forecasts for major Pakistani cities
+- [BizLens](https://github.com/YashfaZahid/BizLens-Small-Business-Data-Analysis-Tool) — analytics product scaffold
+- [vision-lab](https://github.com/YashfaZahid/vision-lab) — reserved for the next vision experiments
 
----
+## Stack
 
-### 🛠️ Tech I work with
+Python, TypeScript, React, FastAPI, Flask, LangChain, OpenAI, Gemini, PyTorch, CLIP, FAISS, MediaPipe, scikit-learn, Prophet, Supabase, Docker.
 
-**Languages:** Python, JavaScript/TypeScript, C++, Java  
-**AI / ML:** Scikit-learn, Pandas, NumPy, Prophet, MediaPipe, (moving into PyTorch & Computer Vision)  
-**Backend:** FastAPI, Flask  
-**Frontend:** React, HTML/CSS  
-**Other:** Docker, Git, SQL
+## Contact
 
----
-
-### 🌱 Currently focusing on
-
-- Deep Learning & Computer Vision foundations → modern architectures
-- Building end-to-end ML systems (data → model → API → deployment)
-- Clean code, experiment tracking and proper engineering practices
-
----
-
-### 📫 Connect with me
-
-- LinkedIn: [yashfa-zahid](https://www.linkedin.com/in/yashfa-zahid-668125250)
-- Location: Lahore, Pakistan
-
----
-
-*"Build things that work. Then make them better."*
+[LinkedIn](https://www.linkedin.com/in/yashfa-zahid-668125250) · Lahore, Pakistan
